@@ -1,3 +1,3 @@
-<template>Joa starts playing riddles.</template>
+<template>Joa starts playing riddlesdfsdfsdfs.</template>
 
 <script setup lang="ts"></script>
